@@ -1,0 +1,41 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Results
+[Bb]in/
+[Oo]bj/
+
+# Common Node modules cache
+node_modules/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# git directory
+.git/
+
+# Auto-generated files (useful for libraries)
+*.dll
+*.exe
+*.so
+*.dylib
+*.testResults
+*.pdb
+*.cache
+*.wlog
+*.log
+
+# Rider project files
+.idea/
+*.sln.iml
